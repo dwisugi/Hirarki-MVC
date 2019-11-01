@@ -6,6 +6,6 @@ class Admin extends MX_Controller {
 	// use \Firebase\JWT\JWT;
 	public function index()
 	{
-		echo 'Selamat datang di HMVC saya';
+		echo 'Selamat Datang Hello Semuanya';
 	}
 }
